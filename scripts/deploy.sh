@@ -193,3 +193,4 @@ apply_k8s_manifests
 # Hash 5357
 # Hash 3571
 # Hash 6935
+# Hash 6942
